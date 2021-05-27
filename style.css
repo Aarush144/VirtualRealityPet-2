@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 20px solid rgb(252, 252, 252);
+  margin-top:100px;
+  margin-left: 350px;
+}
+
+
+/*canvas
+{ 
+   display: block; border: 20px dashed rgb(224, 18, 18);  
+  
+  }*/
