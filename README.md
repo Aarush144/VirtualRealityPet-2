@@ -1,1 +1,1 @@
-# Virtual-pet-2
+# Virtual-Reality-Pet-2
